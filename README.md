@@ -10,7 +10,7 @@ Personal records are also measured and updated after each try.
 was used for development
 
 ## Installation
-Use [pip](https://pip.pypa.io/en/stable/) to install the following Python Kivy related packages:
+Use [pip](https://pip.pypa.io/en/stable/) to install the following Python **Kivy** related packages:
 
 ```bash
 pip install Kivy
