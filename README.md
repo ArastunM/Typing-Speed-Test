@@ -2,7 +2,7 @@
 Typing Speed Test based on characters, words and book sentences. Typing speed is 
 measured based on the number of characters or words typed in a minute. 
 
-Details such as accuracy, words typed, projected speed are measured and displayed when typing. 
+Details such as accuracy, words typed and projected speed are measured and displayed when typing. 
 Personal records are also measured and updated after each try.
 
 ## Prerequisites
