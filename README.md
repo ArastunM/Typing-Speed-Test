@@ -37,7 +37,7 @@ The modules/files can be downloaded from the [GitHub repository](https://github.
 The files inside **src** folder should be in the same directory as **images** and **database** folders 
 for images and database content to be accessible
 
-## Improving the database
+## Improving The Database
 Users can update and improve the databse by changing the content of **database** folder.
 
 Database for letters and words variety can be improved by updating the content of 
